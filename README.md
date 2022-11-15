@@ -34,9 +34,12 @@ Website creation still in progress.
 
  # Credits
  References and materials I used.
+
  ## Content
   - None at the moment
  ## Media
   - None at the moment
  ## Acknowledgements 
-  - None at the moment 
+  - The wireframes inspiration:
+   1. https://eveofficial.com/
+   2. https://survivesaidtheprophet.com/
