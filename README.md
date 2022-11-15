@@ -18,10 +18,10 @@ Wireframes: *insert wireframe link*
 
 Goes over the features in my website.
 
- # Existing Features
+ ## Existing Features
  - None at the momement
 
- # Features left to implement
+ ## Features left to implement
  - Feature 1 - Allows fans to see the history of the band, by having them go to another page about the band's history
  - Feature 2 - Allows fans to buy the merchandise of SUNrise, by having them link to a page for their merch
  - Feature 3 -
@@ -31,11 +31,11 @@ Goes over the features in my website.
 
 Website creation still in progress.
 
-# Credits
+ # Credits
  References and materials I used.
- # Content
+ ## Content
   - None at the moment
- # Media
+ ## Media
   - None at the moment
- # Acknowledgements 
+ ## Acknowledgements 
   - None at the moment 
