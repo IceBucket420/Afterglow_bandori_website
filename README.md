@@ -1,6 +1,7 @@
 # An OFFICAL Website for SUNrise
-This project is about making a website for a fictional band called the SUNrise. 
-This website will contain all the information about the memebers, photoshoots, audio or videos performances from the band, publicise the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties. Moreover, provide links to external resources, such as the band's social media profiles etc. 
+## About
+ This project is about making a website for a fictional band called the SUNrise, a mecha-based band in Japan,Tokyo, with 3 members. 
+ This website will contain all the information about the memebers, photoshoots, audio or videos performances from the band, publicise the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties. Moreover, provide links to external resources, such as the band's social media profiles etc. 
 
 
 # Design Process
