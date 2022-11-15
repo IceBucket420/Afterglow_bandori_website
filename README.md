@@ -20,9 +20,21 @@ Goes over the features in my website.
 
  # Existing Features
  - None at the momement
- 
+
  # Features left to implement
- -Feature 1 - Allows fans to see the history of the band, by having them go to another page about the band's history
- -Feature 2 - Allows fans to buy the merchandise of SUNrise, by having them link to a page for their merch
+ - Feature 1 - Allows fans to see the history of the band, by having them go to another page about the band's history
+ - Feature 2 - Allows fans to buy the merchandise of SUNrise, by having them link to a page for their merch
  - Feature 3 -
  - Feature 4 -
+
+# Testing
+Website creation still in progress.
+
+# Credits
+ 
+ # Content
+  - None at the moment
+ # Media
+  - None at the moment
+ # Acknowledgements 
+  - None at the moment 
