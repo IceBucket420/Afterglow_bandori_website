@@ -1,3 +1,16 @@
 body{
     background-color: antiquewhite;
 }
+
+.split{
+    display: flex;
+    max-width: 100%;
+    width:200 px;
+    padding: 3%;
+    justify-content: center;
+    
+}
+ 
+@media screen and (min-width: 576px) {
+    
+}
