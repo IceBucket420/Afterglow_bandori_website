@@ -1,5 +1,6 @@
 # An OFFICAL Website for SUNrise
 ## About
+
  This project is about making a website for a fictional band called the SUNrise, a mecha-based band in Japan,Tokyo, with 3 members. 
  This website will contain all the information about the memebers and the band, audio or videos performances from the band, and publicising the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties. Moreover, it will provide links to external resources, such as the band's social media profiles etc. 
 
@@ -13,7 +14,7 @@ User stories:
 - As a fan, I wish to get some of their new albums, so that I can support their music.
 - As new fan, I want to know more about the band, so that I can learn about each members history.
 
-wireframes in PDF folder
+*Wireframes in PDF folder*
 
 ## Features
 
@@ -26,9 +27,10 @@ Goes over the features in my website.
  - Feature 1 - Allows fans to see the information about the band, by having them go to another page about the band's information
  - Feature 2 - Allows fans to buy the merchandise of SUNrise, by having them link to a page for their merch and music
  - Feature 3 - Allows fans to see the profiles of thier favourtie members and get to know the each member better, by having a profile page
- - Feature 4 - ALlows fans to contact the band, through the socials and contact. 
+ - Feature 4 - Allows fans to contact the band, through the socials and contact. 
 
 ## Technologies used
+
 In this section, I mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. 
 
  ### Languages used:
