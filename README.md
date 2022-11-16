@@ -29,7 +29,8 @@ Goes over the features in my website.
  - Feature 4 - ALlows fans to contact the band, through the socials and contact. 
 
 ## Technologies used
-In this section, I mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+In this section, I mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. 
+
  ### Languages used:
 - HTML
 - CSS
