@@ -13,6 +13,8 @@ User stories:
 - As a fan, I wish to get some of their new albums, so that I can support their music.
 - As new fan, I want to know more about the band, so that I can learn about each members history.
 
+wireframes in PDF folder
+
 # Features
 
 Goes over the features in my website.
