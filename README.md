@@ -4,7 +4,7 @@
  This website will contain all the information about the memebers and the band, audio or videos performances from the band, and publicising the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties. Moreover, it will provide links to external resources, such as the band's social media profiles etc. 
 
 
-# Design Process
+## Design Process
 
 Essentially, the website is also for the "fans" of the band to learn more about the band's history and the band members, and possibly book them for shows. Additionally, have more fans buy some of their merchandise, music and booking them for gigs. Through this website more fans will have the access to SUNrise content and merchandise, this will help spread the popularity of SUNrise and get more new fans.
 
@@ -15,31 +15,40 @@ User stories:
 
 wireframes in PDF folder
 
-# Features
+## Features
 
 Goes over the features in my website.
 
- ## Existing Features
+ ### Existing Features
  - None at the momement
 
- ## Features left to implement
+ ### Features left to implement
  - Feature 1 - Allows fans to see the information about the band, by having them go to another page about the band's information
  - Feature 2 - Allows fans to buy the merchandise of SUNrise, by having them link to a page for their merch and music
  - Feature 3 - Allows fans to see the profiles of thier favourtie members and get to know the each member better, by having a profile page
  - Feature 4 - ALlows fans to contact the band, through the socials and contact. 
 
-# Testing
+## Technologies used
+In this section, I mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+ ### Languages used:
+- HTML
+- CSS
+- Javascript
+ ### Tools used:
+- Adobe XD
+
+## Testing
 
 Website creation still in progress.
 
- # Credits
+## Credits
  References and materials I used.
 
- ## Content
+ ### Content
   - None at the moment
- ## Media
+ ### Media
   - None at the moment
- ## Acknowledgements 
+ ### Acknowledgements 
   - The wireframes inspiration:
-   1. https://eveofficial.com/
-   2. https://survivesaidtheprophet.com/
+   1. [Eve OFFCIAL Website](https://eveofficial.com/)
+   2. [Survive said the Prophet OFFICAL Website](https://survivesaidtheprophet.com/)
