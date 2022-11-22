@@ -1,15 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,300&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital,wght@1,300&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap');
 body{
     background-color: antiquewhite;
 }
 
-.split{
+
+.bar{
+    font-family:'Barlow Condensed', sans-serif;
+    background-color:lightpink;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.small{
+    font-family:'Allura', cursive; font-size: 30px;
+}
+.logo{
     display: flex;
     max-width: 100%;
     width:200 px;
     padding: 3%;
     justify-content: center;
+    background-color: crimson;
+    
     
 }
+li {
+    margin: 20px;
+}
+li a {
+    color: black;
+    text-decoration: none;
+    }
+
  
 @media screen and (min-width: 576px) {
     
