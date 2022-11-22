@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100;1,400&family=Noto+Sans+JP:wght@300&family=Noto+Sans:ital,wght@1,300&display=swap');
 
 body{
     background-color: lightpink;
@@ -69,6 +69,33 @@ li a {
     display: inline;
 }
 
+.container{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10%;
+    flex-wrap:wrap;
+}
+.homeimg{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+}
+
+
+.homeimg img {
+    max-width: 100%;
+    width: 400px;
+    padding-left: 15.5%;
+    padding-top:3%;
+}
+
+.split {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+    padding: 3%;
+    flex-basis: 40%;
+    text-align: center;
+}
 
 @media screen and (min-width: 576px) {
     
