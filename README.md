@@ -21,7 +21,7 @@ User stories:
 Goes over the features in my website.
 
  ### Existing Features
- - None at the momement
+ - Feature 1 - navigation bar implemented, allow fans to go to different pages containing different content.
 
  ### Features left to implement
  - Feature 1 - Allows fans to see the information about the band, by having them go to another page about the band's information
@@ -39,18 +39,21 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
 - Javascript
  ### Tools used:
 - Adobe XD
+- visual studio code
 
 ## Testing
+ This section include scenarios that have not been automated.
 
-Website creation still in progress.
+ navigation bar:
+ 1. Does not work properly, does not link to other pages.
 
 ## Credits
  References and materials I used.
 
  ### Content
-  - None at the moment
+  - [Bandori (BanG!Dream) fandom wiki](https://bandori.fandom.com/wiki/Afterglow)
  ### Media
-  - None at the moment
+  - [afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
  ### Acknowledgements 
   - The wireframes inspiration:
    1. [Eve OFFCIAL Website](https://eveofficial.com/)
