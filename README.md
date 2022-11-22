@@ -28,7 +28,9 @@ Goes over the features in my website.
  - Feature 1 - Allows fans to see the information about the band, by having them go to another page about the band's information
  - Feature 2 - Allows fans to buy the merchandise of Afterglow, by having them link to a page for their merch and music
  - Feature 3 - Allows fans to see the profiles of thier favourtie members and get to know the each member better, by having a profile page
- - Feature 4 - Allows fans to contact the band, through the socials and contact. 
+ - Feature 4 - Allows fans to contact the band, through the socials and contact.
+ - Feature 5 - Allows fans to see the home page of the website
+ - Feature 6 - mobile ver of website 
 
 ## Technologies used
 
