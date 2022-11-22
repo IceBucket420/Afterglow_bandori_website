@@ -53,7 +53,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
  ### Content
   - [Bandori (BanG!Dream) fandom wiki](https://bandori.fandom.com/wiki/Afterglow)
  ### Media
-  - [afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
+  - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
  ### Acknowledgements 
   - The wireframes inspiration:
    1. [Eve OFFCIAL Website](https://eveofficial.com/)

@@ -9,43 +9,60 @@ body{
     font-family:'Barlow Condensed', sans-serif;
     font-size: 25px;
     background-color:crimson;
-    position: fixed;
     left: 0;
     right: 0;
-    top: 160px;
+    top: 300px;
     height: 60px;
     display: flex;
     align-items: center;
 }
 
 .small{
-    font-family:'Allura', cursive; font-size: 35px;
-    padding-right: 1100px;
+    padding-top:3px ;
+    padding-right: 1000px;
 }
 .logo{
     display: flex;
     max-width: 100%;
     width:400 px;
     height: auto;
-    padding: 2%;
+    padding: 7%;
+    position: relative;
     justify-content: center;
-    background-image: url();
+    background-image: url(https://pm1.narvii.com/6826/88b8c3416a95fcc3628b672614bb37a7daca5c10v2_hq.jpg);
 
-
-    
 }
+
+
 li {
     display: inline;
     margin:0;
-    padding: 8px;;
+    padding: 8px;
     list-style-type: none;
 }
 li a {
     color: whitesmoke;
     text-decoration: none;
+   ;
     }
 
- 
+.socials {
+    left: 0;
+    right: 0;
+    top: 400px;
+    padding-left: 670px;
+    height: 60px;
+    display: flex;
+}
+
+.socials li {
+    margin: 0;
+    padding: 20px;
+    list-style: none;
+    display: inline;
+}
+
+
 @media screen and (min-width: 576px) {
     
 }
