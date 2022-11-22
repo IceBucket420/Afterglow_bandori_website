@@ -22,6 +22,7 @@ Goes over the features in my website.
 
  ### Existing Features
  - Feature 1 - navigation bar implemented, allow fans to go to different pages containing different content.
+ - Feature 2 - added socials links icons, allows fans to see the social pages of their favourtie band
 
  ### Features left to implement
  - Feature 1 - Allows fans to see the information about the band, by having them go to another page about the band's information
@@ -52,8 +53,18 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
 
  ### Content
   - [Bandori (BanG!Dream) fandom wiki](https://bandori.fandom.com/wiki/Afterglow)
+  - [BGD insta](https://www.instagram.com/bang_dream_official_/)
+  - [BGD YT](https://www.youtube.com/@BanGDreamGirlsBandParty)
+  - [BGD twit](https://twitter.com/bang_dream_gbp)
+  - [BGD game](https://play.google.com/store/apps/details?id=com.bushiroad.en.bangdreamgbp&gl=US&pli=1)
  ### Media
   - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
+  - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)
+  - [Band members img 1]()
+  - [Instagram icon](https://cdn-icons-png.flaticon.com/512/2111/2111679.png)
+  - [YT icon](https://cdn-icons-png.flaticon.com/512/1077/1077046.png)
+  - [twitter icon](https://cdn-icons-png.flaticon.com/512/2111/2111819.png)
+  - [game icon](https://cdn-icons-png.flaticon.com/512/726/726859.png)
  ### Acknowledgements 
   - The wireframes inspiration:
    1. [Eve OFFCIAL Website](https://eveofficial.com/)
