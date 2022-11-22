@@ -1,40 +1,47 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,300&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital,wght@1,300&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap');
+
 body{
-    background-color: antiquewhite;
+    background-color: lightpink;
 }
 
 
 .bar{
     font-family:'Barlow Condensed', sans-serif;
-    background-color:lightpink;
+    font-size: 25px;
+    background-color:crimson;
     position: fixed;
     left: 0;
     right: 0;
-    top: 200px;
+    top: 160px;
     height: 60px;
     display: flex;
     align-items: center;
 }
 
 .small{
-    font-family:'Allura', cursive; font-size: 30px;
+    font-family:'Allura', cursive; font-size: 35px;
+    padding-right: 1100px;
 }
 .logo{
     display: flex;
     max-width: 100%;
-    width:200 px;
-    padding: 3%;
+    width:400 px;
+    height: auto;
+    padding: 2%;
     justify-content: center;
-    background-color: crimson;
-    
+    background-image: url();
+
+
     
 }
 li {
-    margin: 20px;
+    display: inline;
+    margin:0;
+    padding: 8px;;
+    list-style-type: none;
 }
 li a {
-    color: black;
+    color: whitesmoke;
     text-decoration: none;
     }
 
