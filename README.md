@@ -62,7 +62,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
  ### Media
   - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
   - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)
-  - [Band members img 1]()
+  - [Band members img 1](https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap)
   - [Instagram icon](https://cdn-icons-png.flaticon.com/512/2111/2111679.png)
   - [YT icon](https://cdn-icons-png.flaticon.com/512/1077/1077046.png)
   - [twitter icon](https://cdn-icons-png.flaticon.com/512/2111/2111819.png)
