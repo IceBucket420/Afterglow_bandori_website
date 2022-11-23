@@ -69,10 +69,10 @@ li a {
     display: inline;
 }
 
-.container{
-    padding-top: 5%;
+.home{
+    padding:5%;
+    flex-wrap:wrap;
 }
-
 
 .text{
     font-family: 'Noto Sans', sans-serif;
@@ -93,8 +93,34 @@ p {
     margin-top: -10px; 
 }
 
+.more {
+    padding:3%;
+    display:flex;
+}
 
+.more h2{
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 50px;
+    padding-right: 68%;
+    padding-left:10%;
+}
 
+.more button{
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    margin-top:60px;
+    background-color: crimson;
+    color: white;
+    width:70px;
+    height: 40px;
+    border: none;
+
+}
+
+.more a{
+    color: whitesmoke;
+    text-decoration: none;
+}
     
 
 
