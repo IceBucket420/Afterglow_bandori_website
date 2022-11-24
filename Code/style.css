@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100;1,400&family=Noto+Sans+JP:wght@300&family=Noto+Sans:ital,wght@1,300&display=swap');
-
 body{
     background-color: lightpink;
 }
@@ -77,8 +76,8 @@ li a {
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
     padding-top:3%;
-    padding-left:20%;
-    padding-right:20% ;
+    padding-left:14%;
+    padding-right:14% ;
     display: flex;
     flex-direction: column;
 }
@@ -94,7 +93,7 @@ p {
 
 
 .more {
-    padding:1%;
+    padding:3%;
     display:flex;
 }
 
@@ -102,8 +101,7 @@ p {
     font-family:'Barlow Condensed', sans-serif;
     color: black;
     font-size: 70px;
-    padding-right: 68%;
-    padding-left:10%;
+    padding-right: 80%;
 }
 
 .more button{
@@ -112,9 +110,10 @@ p {
     margin-top:100px;
     background-color: crimson;
     color: white;
-    width:70px;
+    width:80px;
     height: 40px;
     border: none;
+    border-radius: 5px;
 
 }
 
@@ -126,13 +125,13 @@ p {
 .albumimg{
     display:flex;
     padding-top:2%;
+    padding-bottom: 3%;
     position: relative;
+    justify-content: space-between;
     
 }
 
-.albumimg img{
-    padding-left:5.5%;
-}
+
 
 .alblinks {
     padding-top:20px;
@@ -140,18 +139,82 @@ p {
     font-family:'Barlow Condensed', sans-serif;
     font-size: 25px;
 
-
 }
 
 
 .alblinks a{
     color: black;
-    display:inline;
     text-decoration: none;
-    padding-left: 12.5%;
+}
+
+.alblinks h2{
+    padding-left:40%;
+}
+
+.aboutin {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    padding:3%;
+}
+.aboutin iframe{
+    padding:2%;
+}
+
+.aboutin p,.aboutin h2{
+    padding-left:15%;
+    padding-right:15%;
+}
+
+.aboutin h2{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    margin-bottom: 2%;
 }
 
 
+.content{
+    background-color: crimson;
+    color:whitesmoke;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px; 
+    padding-top:3%;
+    padding-left:15%;
+    padding-right:15%;
+    padding-bottom: 5%;
+}
+
+.content h2{
+    color: lightpink;
+    padding-top: 3%;
+}
+
+.content b{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px; 
+}
+.content p{
+    padding-top: 1%;
+}
+
+.about2 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    padding:5%;
+}
+.about2 iframe{
+    padding:2%;
+}
+
+.about2 p,.about2 h2{
+    padding-left:15%;
+    padding-right:15%;
+}
+
+.about2 h2{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    margin-bottom: 2%;
+}
 @media screen and (min-width: 576px) {
     
 }
