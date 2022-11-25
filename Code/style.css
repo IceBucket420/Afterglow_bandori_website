@@ -80,6 +80,7 @@ li a {
     padding-right:14% ;
     display: flex;
     flex-direction: column;
+    padding-bottom: 3%;
 }
 
 .text h2{
@@ -92,14 +93,20 @@ p {
 }
 
 
+
+
+
+
 .more {
-    padding:3%;
+    padding-left: 100px;
+    padding-right: 200px;
     display:flex;
+    background-color: crimson;
 }
 
 .more h2{
     font-family:'Barlow Condensed', sans-serif;
-    color: black;
+    color: whitesmoke;
     font-size: 70px;
     padding-right: 80%;
 }
@@ -108,8 +115,8 @@ p {
     font-family:'Barlow Condensed', sans-serif;
     font-size: 20px;
     margin-top:100px;
-    background-color: crimson;
-    color: white;
+    background-color:lightpink;
+    color:black;
     width:80px;
     height: 40px;
     border: none;
@@ -118,38 +125,133 @@ p {
 }
 
 .more a{
-    color: whitesmoke;
+    color: black;
     text-decoration: none;
+    
+}
+
+.album1 {
+    background-color:lightcoral;
+    display: flex;
 }
     
-.albumimg{
-    display:flex;
-    padding-top:2%;
+.albumimg1{
+    padding-top:5%;
     padding-bottom: 3%;
-    position: relative;
-    justify-content: space-between;
+    padding-left: 2%;
+    display: flex;
     
 }
 
-
-
-.alblinks {
-    padding-top:20px;
-    display:flex;
+.albumimg1 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.text1 {
+    padding-right:4%;
+    padding-top:10%;
     font-family:'Barlow Condensed', sans-serif;
     font-size: 25px;
-
+    display: flex;
+    flex-direction: column;
 }
 
-
-.alblinks a{
+.text1 a{
     color: black;
     text-decoration: none;
 }
 
-.alblinks h2{
-    padding-left:40%;
+.text1 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
 }
+
+
+.album2 {
+    background-color:lightcoral;
+    display: flex;
+}
+
+
+.albumimg2{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left:2%;
+    display: flex;
+
+}
+
+.albumimg2 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.albumimg2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.text2 {
+    padding-right:4%;
+    padding-top:10%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.text2 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+.album3 {
+    background-color:lightcoral;
+    display: flex;
+}
+.albumimg3{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+}
+
+.albumimg3 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.albumimg3 a{
+    color: black;
+    text-decoration: none;
+}
+.text3 {
+    padding-right:4%;
+    padding-top: 10%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text3 a{
+    color: black;
+    text-decoration: none;
+}
+.text3 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+
+
+
 
 .aboutin {
     font-family: 'Noto Sans', sans-serif;
@@ -225,7 +327,7 @@ p {
 }
 .persona h2 {
     padding-top:5%;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans ', sans-serif;
     font-size: 20px;
     flex-wrap: wrap;
 }
