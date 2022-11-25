@@ -23,9 +23,11 @@ Goes over the features in my website.
  ### Existing Features
  - Feature 1 - navigation bar implemented, allow fans to go to different pages containing different content.
  - Feature 2 - added socials links icons, allows fans to see the social pages of their favourtie band
+ - Feature 3 - A music section in the home page to introduce some songs from Afterglow, through the option of listening to it and a link to where to get the single
+ - Feature 4 - About page implemented, where users can discover more about the band's background and history.
 
  ### Features left to implement
- - Feature 1 - Allows fans to see the information about the band, by having them go to another page about the band's information
+
  - Feature 2 - Allows fans to buy the merchandise of Afterglow, by having them link to a page for their merch and music
  - Feature 3 - Allows fans to see the profiles of thier favourtie members and get to know the each member better, by having a profile page
  - Feature 4 - Allows fans to contact the band, through the socials and contact.
@@ -43,12 +45,18 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
  ### Tools used:
 - Adobe XD
 - visual studio code
+- google fonts
+ - Noto Sans
+ - Noto Sans JP
+ - Barlow Condensed
 
 ## Testing
  This section include scenarios that have not been automated.
 
  navigation bar:
  1. Does not work properly, does not link to other pages.
+
+ Issue cleared.
 
 ## Credits
  References and materials I used.
@@ -60,10 +68,14 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - [BGD twit](https://twitter.com/bang_dream_gbp)
   - [BGD game](https://play.google.com/store/apps/details?id=com.bushiroad.en.bangdreamgbp&gl=US&pli=1)
   - [BanG! Dream gpd busihroad](https://bang-dream-gbp-en.bushiroad.com)
+  - [Afterglow YT (contains songs from Afterglow)](https://www.youtube.com/channel/UCmmb21SgNEyCFW0ZzG-kWvg)
  ### Media
   - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
   - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)
   - [Band members img 1](https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap)
+  - [Sasanqua album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_7th_Single_Sasanqua.jpg?v=1634198313)
+  - [Easy come, easy go! album img]("https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_6th_Single_Easy_come_Easy_go_533x.png?v=1634198103)
+  - [ONE OF US album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_1st_Album_ONE_OF_US.jpg?v=1634196511)
   - [Instagram icon](https://cdn-icons-png.flaticon.com/512/2111/2111679.png)
   - [YT icon](https://cdn-icons-png.flaticon.com/512/1077/1077046.png)
   - [twitter icon](https://cdn-icons-png.flaticon.com/512/2111/2111819.png)
