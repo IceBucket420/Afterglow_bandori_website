@@ -59,6 +59,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - [BGD YT](https://www.youtube.com/@BanGDreamGirlsBandParty)
   - [BGD twit](https://twitter.com/bang_dream_gbp)
   - [BGD game](https://play.google.com/store/apps/details?id=com.bushiroad.en.bangdreamgbp&gl=US&pli=1)
+  - [BanG! Dream gpd busihroad](https://bang-dream-gbp-en.bushiroad.com)
  ### Media
   - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
   - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)

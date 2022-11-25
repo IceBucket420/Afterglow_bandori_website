@@ -55,7 +55,7 @@ li a {
     left: 0;
     right: 0;
     top: 400px;
-    padding-left: 670px;
+    justify-content: center;
     height: 60px;
     display: flex;
 }
@@ -217,6 +217,25 @@ p {
     font-size: 20px;
     margin-bottom: 2%;
 }
+.persona {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    justify-content: center;
+    
+}
+.persona h2 {
+    padding-top:5%;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+.persona p,.persona h2{
+    padding-left:15%;
+    padding-right:15%;
+    padding-bottom: 3%;
+}
+
+
 @media screen and (min-width: 576px) {
     iframe{
         max-width: 100%;
@@ -227,5 +246,11 @@ p {
         max-width: 100%;
         width: 400px;
         flex-wrap: wrap;
-    
+    }
+    .persona img{
+        max-width:100%;
+        height: auto;
+        flex-wrap: wrap;
+        
+    }
 }
