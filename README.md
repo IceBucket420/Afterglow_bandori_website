@@ -25,13 +25,13 @@ Goes over the features in my website.
  - Feature 2 - added socials links icons, allows fans to see the social pages of their favourtie band
  - Feature 3 - A music section in the home page to introduce some songs from Afterglow, through the option of listening to it and a link to where to get the single
  - Feature 4 - About page implemented, where users can discover more about the band's background and history.
+ - Feature 5 - Profile page implemented, users who want to learn more about a band member can head there to discover more about each memeber
+ - Feature 6 - Merch page implmented, under the merch section, users can either click on the images or text that will link them to the page to buy the merchandise they want.
+ - Feature 7 - Music section in merch page can link users to a yt link that will play the song and another link that links to the merch store. 
 
  ### Features left to implement
 
- - Feature 2 - Allows fans to buy the merchandise of Afterglow, by having them link to a page for their merch and music
- - Feature 3 - Allows fans to see the profiles of thier favourtie members and get to know the each member better, by having a profile page
  - Feature 4 - Allows fans to contact the band, through the socials and contact.
- - Feature 5 - Allows fans to see the home page of the website
  - Feature 6 - mobile ver of website 
 
 ## Technologies used
@@ -84,3 +84,5 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - The wireframes inspiration:
    1. [Eve OFFCIAL Website](https://eveofficial.com/)
    2. [Survive said the Prophet OFFICAL Website](https://survivesaidtheprophet.com/)
+  - The Merchandise for Afterglow:
+   1. [Bushiroad Global Online store](https://bushiroad-global-online-store.myshopify.com/collections/afterglow)

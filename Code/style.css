@@ -52,6 +52,7 @@ li a {
 .socials {
     display: flex;
     justify-content: center;
+    padding-bottom: 5%;
    
   
 }
@@ -161,6 +162,11 @@ p {
 
 }
 
+.text1 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
 
 .album2 {
     background-color:lightgoldenrodyellow;
@@ -204,6 +210,10 @@ p {
     font-size: 18px;
 
 }
+.text2 b{
+    color: crimson;
+    font-size: 20px;
+}
 
 .album3 {
     background-color:lightcoral;
@@ -241,6 +251,28 @@ p {
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
 
+}
+.text3 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.album4 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+    
+.albumimg4{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.albumimg4 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
 }
 
 
@@ -337,11 +369,10 @@ p {
     font-size: 18px;
     padding-right:10%;
     padding-left: 10%;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
-.introvid p{
-    
+.introvid p{  
     padding-left:3%;
     padding-right: 3%;
 }
@@ -369,11 +400,6 @@ p {
     padding: 3%;
 }
 
-.intro h2{
-    font-family:'Barlow Condensed', sans-serif;
-    font-size: 40px;
-    padding: 3%;
-}
 
 
 .procon{
@@ -523,6 +549,308 @@ p {
     color: crimson;
     
 }
+
+
+
+.mt {
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 60px;
+    color: whitesmoke;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    background-color:crimson;
+}
+
+.merch{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    display: flex;
+
+}
+
+.merchimg {
+    padding-top:4%;
+    padding-left: 2%;
+    padding-right:10px;
+    padding-bottom: 5%;
+    flex-direction: column;
+}
+
+.merchtext{
+    padding-top:5%;
+    padding-right: 10%;
+    padding-bottom: 5% ;
+    flex-direction: column;
+}
+.merchtext a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+
+.malbum1 {
+    background-color:lightcoral;
+    display: flex;
+}
+    
+.malbumimg1{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.malbumimg1 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.mtext1 {
+    padding-right:4%;
+    padding-top:6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mtext1 a{
+    color: black;
+    text-decoration: none;
+}
+
+.mtext1 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+.mtext1 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+
+.malbum2 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+
+
+.malbumimg2{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left:2%;
+    display: flex;
+
+}
+
+.malbumimg2 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.malbumimg2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.mtext2 {
+    padding-right:4%;
+    padding-top:6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mtext2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.mtext2 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+.mtext2 b{
+    color: crimson;
+    font-size: 20px;
+}
+
+.malbum3 {
+    background-color:lightcoral;
+    display: flex;
+}
+.malbumimg3{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+}
+
+.malbumimg3 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.malbumimg3 a{
+    color: black;
+    text-decoration: none;
+}
+.mtext3 {
+    padding-right:4%;
+    padding-top: 6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mtext3 a{
+    color: black;
+    text-decoration: none;
+}
+.mtext3 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+.mtext3 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.malbum4 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+    
+.malbumimg4{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.malbumimg4 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.mtext4 {
+    padding-right:4%;
+    padding-top:6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mtext4 a{
+    color: black;
+    text-decoration: none;
+}
+
+.mtext4 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+.mtext4 b{
+    color:crimson;
+    font-size: 20px;
+}
+
+.malbum5 {
+    background-color:lightcoral;
+    display: flex;
+}
+.malbumimg5{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+}
+
+.malbumimg5 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.malbumimg5 a{
+    color: black;
+    text-decoration: none;
+}
+.mtext5 {
+    padding-right:4%;
+    padding-top: 6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mtext5 a{
+    color: black;
+    text-decoration: none;
+}
+.mtext5 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+.mtext5 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.malbum6 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+    
+.malbumimg6{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.malbumimg6 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.mtext6 {
+    padding-right:4%;
+    padding-top:6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mtext6 a{
+    color: black;
+    text-decoration: none;
+}
+
+.mtext6 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+.mtext6 b{
+    color:crimson;
+    font-size: 20px;
+}
+
+
 
 
 @media screen and (min-width: 576px) {
