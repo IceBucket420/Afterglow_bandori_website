@@ -74,7 +74,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)
   - [Band members img 1](https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap)
   - [Sasanqua album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_7th_Single_Sasanqua.jpg?v=1634198313)
-  - [Easy come, easy go! album img]("https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_6th_Single_Easy_come_Easy_go_533x.png?v=1634198103)
+  - [Easy come, easy go! album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_6th_Single_Easy_come_Easy_go_533x.png?v=1634198103)
   - [ONE OF US album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_1st_Album_ONE_OF_US.jpg?v=1634196511)
   - [Instagram icon](https://cdn-icons-png.flaticon.com/512/2111/2111679.png)
   - [YT icon](https://cdn-icons-png.flaticon.com/512/1077/1077046.png)
