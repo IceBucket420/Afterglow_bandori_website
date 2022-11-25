@@ -332,6 +332,27 @@ p {
     padding-bottom: 3%;
 }
 
+.introvid{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    padding-right:10%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.introvid p{
+    
+    padding-left:3%;
+    padding-right: 3%;
+}
+
+.introvid h2{
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 40px;
+    padding-left:3%;
+    padding-right: 3%;
+}
+
 .intro {
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
@@ -359,7 +380,14 @@ p {
     padding-top: 5%;
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
+    flex-wrap: wrap;
 
+}
+
+.procon h2{
+    padding:3%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 40px;
 }
 
 .ran{ 
@@ -513,5 +541,9 @@ p {
         height: auto;
         flex-wrap: wrap;
         
+    }
+    .ranimg {
+        max-width: 100%;
+        max-width: 1000;
     }
 }
