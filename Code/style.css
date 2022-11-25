@@ -15,8 +15,6 @@ h1{
     font-family:'Barlow Condensed', sans-serif;
     font-size: 25px;
     background-color:crimson;
-    left: 0;
-    right: 0;
     top: 300px;
     height: 90px;
     display: flex;
@@ -52,19 +50,15 @@ li a {
     }
 
 .socials {
-    left: 0;
-    right: 0;
-    top: 400px;
-    justify-content: center;
-    height: 60px;
     display: flex;
+    justify-content: center;
+   
+  
 }
 
 .socials li {
-    margin: 0;
-    padding: 20px;
+    padding-left: 20px;
     list-style: none;
-    display: inline;
 }
 
 .home{
@@ -328,7 +322,7 @@ p {
 }
 .persona h2 {
     padding-top:5%;
-    font-family: 'Noto Sans JP ', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 20px;
     flex-wrap: wrap;
 }
@@ -336,6 +330,170 @@ p {
     padding-left:15%;
     padding-right:15%;
     padding-bottom: 3%;
+}
+
+.intro {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.intro img{
+    padding-top: 8%;
+    padding-left: 1%;
+}
+
+.intro p{
+    padding: 3%;
+}
+
+.intro h2{
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 40px;
+    padding: 3%;
+}
+
+
+.procon{
+    padding-top: 5%;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+.ran{ 
+    background-color: #EE0022;
+    padding:5%;
+    color: whitesmoke;
+    flex-wrap: wrap;
+}
+.ranimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.rancon{
+    padding-right: 5%;
+    padding-left:5% ;
+}
+.rancon h2, .rancon h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    color:lightpink;
+    
+}
+
+.moca{ 
+    justify-content: center;
+    background-color: #00CCAA;
+    padding:5%;
+    color: whitesmoke;
+    flex-wrap: wrap;
+}
+.mocaimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.mocacon{
+    padding-right: 5%;
+    padding-left:5% ;
+}
+.mocacon h2, .mocacon h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: crimson;
+    
+}
+
+.himari{ 
+    justify-content: center;
+    background-color:#FF9999;
+    padding:5%;
+    color: whitesmoke;
+    flex-wrap: wrap;
+}
+.himariimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.himaricon{
+    padding-right: 5%;
+    padding-left:5% ;
+}
+.himaricon h2, .himaricon h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: crimson;
+    
+}
+
+.tomoe{ 
+    justify-content: center;
+    background-color: crimson;
+    padding:5%;
+    color: whitesmoke;
+    flex-wrap: wrap;
+}
+.tomoeimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.tomoecon{
+    padding-right: 5%;
+    padding-left:5% ;
+}
+.tomoecon h2, .tomoecon h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: lightpink;
+    
+}
+
+.hazawa{ 
+    justify-content: center;
+    background-color: #FFEE88;
+    padding:5%;
+    color: black;
+    flex-wrap: wrap;
+}
+.hazawaimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:65%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.hazawacon{
+    padding-right: 5%;
+    padding-left:5% ;
+}
+.hazawacon h2, .hazawa h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: crimson;
+    
 }
 
 
