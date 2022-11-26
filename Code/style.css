@@ -19,12 +19,12 @@ h1{
     height: 90px;
     display: flex;
     align-items: center;
+    padding-right: 4%;
+    justify-content:flex-end;
+    padding-top:3px;
 }
 
-.small{
-    padding-top:3px ;
-    padding-right: 1000px;
-}
+
 .logo{
     display: flex;
     max-width: 100%;
@@ -33,7 +33,7 @@ h1{
     padding: 7%;
     position: relative;
     justify-content: center;
-    background-image: url(https://pm1.narvii.com/6826/88b8c3416a95fcc3628b672614bb37a7daca5c10v2_hq.jpg);
+    background-color: lightcoral;
 
 }
 
@@ -423,10 +423,6 @@ p {
     flex-wrap: wrap;
 }
 .ranimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:65%;
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
@@ -450,10 +446,6 @@ p {
     flex-wrap: wrap;
 }
 .mocaimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:65%;
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
@@ -477,10 +469,6 @@ p {
     flex-wrap: wrap;
 }
 .himariimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:65%;
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
@@ -504,10 +492,6 @@ p {
     flex-wrap: wrap;
 }
 .tomoeimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:65%;
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
@@ -531,10 +515,6 @@ p {
     flex-wrap: wrap;
 }
 .hazawaimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:65%;
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
