@@ -2,7 +2,7 @@
 ## About
 
  This project is about making a website for a fictional band called Afterglow, a japanese rock-pop band with 5 members from a popular anime series, Bandori(BanG! Dream). 
- This website will contain all the information about the memebers and the band, audio or videos performances from the band, and publicising the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties. Moreover, it will provide links to external resources, such as the band's social media profiles etc. 
+ This website will contain all the information about the memebers and the band, audio or videos performances from the band, and publicising the band's upcoming shows and/or availability to perform at events such as weddings and corporate parties. Moreover, it will provide links to external resources, such as the band's social medias, game and merchandise.
 
 
 ## Design Process
@@ -22,7 +22,7 @@ Goes over the features in my website.
 
  ### Existing Features
  - Feature 1 - navigation bar implemented, allow fans to go to different pages containing different content.
- - Feature 2 - added socials links icons, allows fans to see the social pages of their favourtie band
+ - Feature 2 - added socials links icons bar, allows fans to see the social pages of their favourtie band
  - Feature 3 - A music section in the home page to introduce some songs from Afterglow, through the option of listening to it and a link to where to get the single
  - Feature 4 - About page implemented, where users can discover more about the band's background and history.
  - Feature 5 - Profile page implemented, users who want to learn more about a band member can head there to discover more about each memeber
