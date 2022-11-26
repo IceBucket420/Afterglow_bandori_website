@@ -353,7 +353,7 @@ p {
     
 }
 .persona h2 {
-    padding-top:5%;
+    padding-top:2%;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 20px;
     flex-wrap: wrap;
@@ -389,11 +389,11 @@ p {
     font-size: 18px;
     display: flex;
     flex-direction: column;
+    background-color: lightcoral;
 }
 
 .intro img{
     padding-top: 8%;
-    padding-left: 1%;
 }
 
 .intro p{
