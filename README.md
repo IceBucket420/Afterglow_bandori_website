@@ -13,6 +13,7 @@ User stories:
 - As a fan, I want to attend a show of Afterglow, so that I can expeirence their music in person.
 - As a fan, I wish to get some of their new albums, so that I can support their music.
 - As new fan, I want to know more about the band, so that I can learn about each members history.
+- As a person who is getting interested in Afterglow, I want to learn the general information about the band.
 
 *Wireframes in PDF folder*
 
@@ -69,17 +70,16 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - [BGD game](https://play.google.com/store/apps/details?id=com.bushiroad.en.bangdreamgbp&gl=US&pli=1)
   - [BanG! Dream gpd busihroad](https://bang-dream-gbp-en.bushiroad.com)
   - [Afterglow YT (contains songs from Afterglow)](https://www.youtube.com/channel/UCmmb21SgNEyCFW0ZzG-kWvg)
+  - [Afterglow spotify](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI)
  ### Media
   - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
   - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)
   - [Band members img 1](https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap)
-  - [Sasanqua album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_7th_Single_Sasanqua.jpg?v=1634198313)
-  - [Easy come, easy go! album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_6th_Single_Easy_come_Easy_go_533x.png?v=1634198103)
-  - [ONE OF US album img](https://cdn.shopify.com/s/files/1/0550/5774/4071/products/Afterglow_1st_Album_ONE_OF_US.jpg?v=1634196511)
   - [Instagram icon](https://cdn-icons-png.flaticon.com/512/2111/2111679.png)
   - [YT icon](https://cdn-icons-png.flaticon.com/512/1077/1077046.png)
   - [twitter icon](https://cdn-icons-png.flaticon.com/512/2111/2111819.png)
   - [game icon](https://cdn-icons-png.flaticon.com/512/726/726859.png)
+  - [Spotify icon](https://cdn-icons-png.flaticon.com/512/2111/2111805.png)
  ### Acknowledgements 
   - The wireframes inspiration:
    1. [Eve OFFCIAL Website](https://eveofficial.com/)
