@@ -833,9 +833,9 @@ p {
 .contact{
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
-    justify-content: center;
-    
+    padding: 3%;
 }
+
 
 
 @media screen and (min-width: 576px) {
