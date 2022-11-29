@@ -404,19 +404,36 @@ p {
 }
 
 .introvid{
+   
+    padding-top: 10%;
+    position:relative;
+    overflow: hidden;
+}
+
+.introvid::after{
+    display:block;
+    content:"";
+    padding-top: 56.25%;
+}
+
+.introvid iframe{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+
+}
+
+.introtext { 
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
-    padding-right:10%;
-    padding-left: 10%;
     padding-top: 5%;
+    padding-left:10%;
+    padding-right: 10%;
 }
 
-.introvid p{  
-    padding-left:3%;
-    padding-right: 3%;
-}
-
-.introvid h2{
+.introtext h2{
     font-family:'Barlow Condensed', sans-serif;
     font-size: 40px;
     padding-left:3%;
@@ -456,15 +473,18 @@ p {
 }
 
 .ran{ 
+    display: flex;
+    flex-direction: column;
     background-color: #EE0022;
     padding:5%;
     color: whitesmoke;
     flex-wrap: wrap;
 }
-.ranimg{
+.ranimg img{
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
+    
 }
 
 .rancon{
@@ -919,10 +939,12 @@ p {
         flex-wrap: wrap;
         
     }
-    .ranimg {
+    .ranimg img{
         max-width: 100%;
-        max-width: 1000;
+        width: auto;
+        height: auto;
     }
+    
     .album1{
         padding-left:3%;
         padding-bottom: 3%;
