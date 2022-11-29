@@ -868,13 +868,25 @@ p {
     color:crimson;
     font-size: 20px;
 }
+
 .contact_size{
-    padding: 100px;
+    padding-right:50%;
+    padding-bottom: 3%;
+    
 }
 
+.sub{
+    padding-right:3%;
+}
 .contact{
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
+    padding:3%;
+    background: white;
+}
+
+.titcon{
+    padding: 10%;
 }
 
 
