@@ -298,16 +298,12 @@ p {
 
 
 
-
-
 .aboutin {
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
     padding:3%;
 }
-.aboutin iframe{
-    padding:2%;
-}
+
 
 .aboutin p,.aboutin h2{
     padding-top:2%;
@@ -369,9 +365,7 @@ p {
     font-size: 18px;
     padding:5%;
 }
-.about2 iframe{
-    padding:2%;
-}
+
 
 .about2 p,.about2 h2{
     padding-top:2%;
@@ -1025,6 +1019,7 @@ p {
         padding-bottom: 3%;
         flex-direction: column;
     }
+
    
 
 }
