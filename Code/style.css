@@ -595,31 +595,7 @@ p {
     background-color:crimson;
 }
 
-.merch{
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
-    display: flex;
 
-}
-
-.merchimg {
-    padding-top:4%;
-    padding-left: 2%;
-    padding-right:10px;
-    padding-bottom: 5%;
-    flex-direction: column;
-}
-
-.merchtext{
-    padding-top:5%;
-    padding-right: 10%;
-    padding-bottom: 5% ;
-    flex-direction: column;
-}
-.merchtext a{
-    color: whitesmoke;
-    text-decoration: none;
-}
 
 
 
