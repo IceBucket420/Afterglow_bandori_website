@@ -924,10 +924,7 @@ p {
 
 @media screen and (max-width: 576px) {
 
-    iframe{
-        max-width: 100%;
-        width: 1440px;    
-    }
+    
     .albumimg img{
         max-width: 100%;
         width: 400px;
@@ -976,6 +973,7 @@ p {
         height: auto;
     }
 
+   
     .album1{
         padding-left:3%;
         padding-bottom: 3%;
@@ -992,5 +990,41 @@ p {
         padding-bottom: 3%;
         flex-direction: column;
     }
+
+    .malbum1{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+
+    .malbum2{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+
+    .malbum3{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+
+    .malbum4{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+
+    .malbum5{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+    .malbum6{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+   
 
 }
