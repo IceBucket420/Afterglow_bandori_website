@@ -868,11 +868,13 @@ p {
     color:crimson;
     font-size: 20px;
 }
+.contact_size{
+    padding: 100px;
+}
 
 .contact{
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
-    padding: 10%;
 }
 
 
