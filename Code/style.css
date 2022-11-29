@@ -37,6 +37,11 @@ h1{
 
 }
 
+footer{
+    background-color: crimson;
+    padding: 3%;
+}
+
 
 li {
     display: inline;
@@ -58,13 +63,29 @@ li a {
 }
 
 .socials li {
-    padding-left: 20px;
+   
     list-style: none;
 }
 
 .home{
     padding-top:8%;
-    flex-wrap:wrap;
+    position:relative;
+    overflow: hidden;
+}
+
+.home::after{
+    display:block;
+    content:"";
+    padding-top: 56.25%;
+}
+
+.home iframe{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+
 }
 
 .text{
@@ -300,7 +321,25 @@ p {
     margin-bottom: 2%;
 }
 
+.vid1{
+    position:relative;
+    overflow: hidden;
+}
 
+.vid1::after{
+    display:block;
+    content:"";
+    padding-top: 56.25%;
+}
+
+.vid1 iframe{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+
+}
 .content{
     background-color: crimson;
     color:whitesmoke;
@@ -832,13 +871,13 @@ p {
 
 .contact{
     font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
-    padding: 3%;
+    font-size: 20px;
+    padding: 10%;
 }
 
 
 
-@media screen and (min-width: 576px) {
+@media screen and (max-width: 576px) {
     iframe{
         max-width: 100%;
         width: 1440px;
@@ -858,5 +897,21 @@ p {
     .ranimg {
         max-width: 100%;
         max-width: 1000;
+    }
+    .album1{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+
+    .album2{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
+    }
+    .album3{
+        padding-left:3%;
+        padding-bottom: 3%;
+        flex-direction: column;
     }
 }
