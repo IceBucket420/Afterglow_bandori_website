@@ -923,10 +923,10 @@ p {
 }
 
 @media screen and (max-width: 576px) {
+
     iframe{
         max-width: 100%;
-        width: 1440px;
-        
+        width: 1440px;    
     }
     .albumimg img{
         max-width: 100%;
@@ -954,17 +954,23 @@ p {
 
     .himariimg img{
         max-width: 100%;
-        width: auto;
+        width: 1000;
         height: auto;
     }
 
-    .tomoeimg{
+    .tomoeimg img{
         max-width: 100%;
         width: auto;
         height: auto;
     }
 
     .hazawaimg img{
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+
+    .intro img{
         max-width: 100%;
         width: auto;
         height: auto;
