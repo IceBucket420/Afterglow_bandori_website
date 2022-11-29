@@ -944,7 +944,32 @@ p {
         width: auto;
         height: auto;
     }
-    
+
+    .mocaimg img{
+        max-width: 100%;
+        width: auto;
+        height: auto;
+
+    }
+
+    .himariimg img{
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+
+    .tomoeimg{
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+
+    .hazawaimg img{
+        max-width: 100%;
+        width: auto;
+        height: auto;
+    }
+
     .album1{
         padding-left:3%;
         padding-bottom: 3%;
