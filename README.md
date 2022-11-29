@@ -29,6 +29,8 @@ Goes over the features in my website.
  - Feature 5 - Profile page implemented, users who want to learn more about a band member can head there to discover more about each memeber
  - Feature 6 - Merch page implmented, under the merch section, users can either click on the images or text that will link them to the page to buy the merchandise they want.
  - Feature 7 - Music section in merch page can link users to a yt link that will play the song and another link that links to the merch store. 
+ -Feature 8 - Footer added for all pages, to learn more about the band.
+ - Feature 9 - Contact page implement, fans can contact the band for inqueries and bookings.
 
  ### Features left to implement
 
@@ -60,7 +62,7 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
  Issue cleared.
 
 ## Credits
- References and materials I used.
+ References and materials I used. Images referenced can be found in the band's wiki page and the global store.
 
  ### Content
   - [Bandori (BanG!Dream) fandom wiki](https://bandori.fandom.com/wiki/Afterglow)
