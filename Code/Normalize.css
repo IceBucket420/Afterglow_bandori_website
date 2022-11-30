@@ -1225,7 +1225,7 @@ p {
     .malbum1{
         flex-direction: column;
     }
-    .malbum1{
+    .mtext1{
         padding-left: 8%;
     }
 
@@ -1233,7 +1233,7 @@ p {
         flex-direction: column;
     }
 
-    .malbum2{
+    .mtext2{
         padding-left: 8%;
     }
 
@@ -1241,7 +1241,7 @@ p {
         flex-direction: column;
     }
 
-    .malbum3{
+    .mtext3{
         padding-left: 8%;
     }
 
@@ -1251,16 +1251,31 @@ p {
         flex-direction: column;
     }
 
+    .mtext4{
+        padding-left: 8%;
+    }
+
     .malbum5{
         padding-left:3%;
         padding-bottom: 3%;
         flex-direction: column;
     }
+
+    .mtext5{
+        padding-left: 8%;
+    }
+
     .malbum6{
         padding-left:3%;
         padding-bottom: 3%;
         flex-direction: column;
     }
+
+    .mtext6{
+        padding-left: 8%;
+    }
+
+    
 
     .merch1{
         flex-direction: column;
