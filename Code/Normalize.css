@@ -1228,8 +1228,10 @@ p {
     .malbum1{
         flex-direction: column;
     }
+
     .mtext1{
         padding-left: 8%;
+        padding-bottom: 8%;
     }
 
     .malbum2{
@@ -1238,6 +1240,7 @@ p {
 
     .mtext2{
         padding-left: 8%;
+        padding-bottom: 8%;
     }
 
     .malbum3{
@@ -1246,6 +1249,7 @@ p {
 
     .mtext3{
         padding-left: 8%;
+        padding-bottom: 8%;
     }
 
     .malbum4{
@@ -1255,15 +1259,16 @@ p {
 
     .mtext4{
         padding-left: 8%;
+        padding-bottom: 8%;
     }
 
     .malbum5{
-       
         flex-direction: column;
     }
 
     .mtext5{
         padding-left: 8%;
+        padding-bottom: 8%;
     }
 
     .malbum6{
@@ -1273,6 +1278,7 @@ p {
 
     .mtext6{
         padding-left: 8%;
+        padding-bottom: 8%;
     }
 
 
