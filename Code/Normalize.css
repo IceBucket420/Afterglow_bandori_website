@@ -1246,8 +1246,7 @@ p {
     }
 
     .malbum4{
-        padding-left:3%;
-        padding-bottom: 3%;
+        
         flex-direction: column;
     }
 
@@ -1256,8 +1255,7 @@ p {
     }
 
     .malbum5{
-        padding-left:3%;
-        padding-bottom: 3%;
+       
         flex-direction: column;
     }
 
@@ -1266,8 +1264,7 @@ p {
     }
 
     .malbum6{
-        padding-left:3%;
-        padding-bottom: 3%;
+       
         flex-direction: column;
     }
 
@@ -1275,7 +1272,7 @@ p {
         padding-left: 8%;
     }
 
-    
+
 
     .merch1{
         flex-direction: column;
