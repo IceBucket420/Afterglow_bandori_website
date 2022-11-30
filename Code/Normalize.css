@@ -595,6 +595,7 @@ p {
     background-color:crimson;
 }
 
+
 .merch1 {
     background-color:lightcoral;
     display: flex;
@@ -614,9 +615,9 @@ p {
 }
 .merchtxt1 {
     padding-right:4%;
-    padding-top:6%;
+    padding-top:8%;
     font-family:'Barlow Condensed', sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     display: flex;
     flex-direction: column;
 }
@@ -628,16 +629,227 @@ p {
 
 .merchtxt1 p{
     font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
+    font-size: 25px;
 
 }
 
 .merchtxt1 b{
-    color: whitesmoke;
+    color: c=whitesmoke;
     font-size: 20px;
 }
 
 
+
+.merch2 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+    
+.merchimg2{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.merchimg2 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.merchtxt2 {
+    padding-right:4%;
+    padding-top:8%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.merchtxt2 a{
+    color: black;
+    text-decoration: none;
+}
+
+.merchtxt2 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.merchtxt2 b{
+    color: crimson;
+    font-size: 20px;
+}
+
+
+.merch3 {
+    background-color:lightcoral;
+    display: flex;
+}
+    
+.merchimg3{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.merchimg3 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.merchtxt3 {
+    padding-right:4%;
+    padding-top:8%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.merchtxt3 a{
+    color: black;
+    text-decoration: none;
+}
+
+.merchtxt3 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.merchtxt3 b{
+    color: c=whitesmoke;
+    font-size: 20px;
+}
+
+.merch4 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+    
+.merchimg4{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.merchimg4 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.merchtxt4 {
+    padding-right:4%;
+    padding-top:8%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.merchtxt4 a{
+    color: black;
+    text-decoration: none;
+}
+
+.merchtxt4 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.merchtxt4 b{
+    color: crimson;
+    font-size: 20px;
+}
+
+.merch5 {
+    background-color:lightcoral;
+    display: flex;
+}
+    
+.merchimg5{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.merchimg5 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.merchtxt5 {
+    padding-right:4%;
+    padding-top:8%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.merchtxt5 a{
+    color: black;
+    text-decoration: none;
+}
+
+.merchtxt5 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.merchtxt5 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.merch6 {
+    background-color:lightgoldenrodyellow;
+    display: flex;
+}
+    
+.merchimg6{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.merchimg6 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.merchtxt6 {
+    padding-right:4%;
+    padding-top:8%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.merchtxt6 a{
+    color: black;
+    text-decoration: none;
+}
+
+.merchtxt6 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+
+}
+
+.merchtxt6 b{
+    color: crimson;
+    font-size: 20px;
+}
 
 .malbum1 {
     background-color:lightcoral;
@@ -651,6 +863,8 @@ p {
     display: flex;
     
 }
+
+
 
 .malbumimg1 img{
     padding-bottom: 5%;
