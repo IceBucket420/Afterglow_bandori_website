@@ -1286,46 +1286,60 @@ p {
     .merch1{
         flex-direction: column;
     }
+
     .merchtxt1{
         padding-left: 8%;
+        padding-bottom: 8%;
 
     }
 
     .merch2{
         flex-direction: column;
     }
+
     .merchtxt2{
         padding-left: 8%;
+        padding-bottom: 8%;
 
     }
+
     .merch3{
         flex-direction: column;
     }
+
     .merchtxt3{
         padding-left: 8%;
+        padding-bottom: 8%;
 
     }
 
     .merch4{
         flex-direction: column;
     }
+
     .merchtxt4{
         padding-left: 8%;
+        padding-bottom: 8%;
 
     }
 
     .merch5{
         flex-direction: column;
     }
+
     .merchtxt5{
         padding-left: 8%;
+        padding-bottom: 8%;
 
     }
+
     .merch6{
         flex-direction: column;
     }
+
     .merchtxt6{
         padding-left: 8%;
+        padding-bottom: 8%;
 
     }
 
