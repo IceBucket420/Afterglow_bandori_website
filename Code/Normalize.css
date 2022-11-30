@@ -1197,20 +1197,29 @@ p {
 
    
     .album1{
-        padding-left:3%;
-        padding-bottom: 3%;
+        flex-direction: column;
+    }
+
+    .album1{
+        padding-left: 8%;
+    }
+
+    .album2{
         flex-direction: column;
     }
 
     .album2{
-        padding-left:3%;
-        padding-bottom: 3%;
+        padding-left: 8%;
+
+    }
+
+    .album3{
         flex-direction: column;
     }
+
     .album3{
-        padding-left:3%;
-        padding-bottom: 3%;
-        flex-direction: column;
+        padding-left: 8%;
+
     }
 
     .malbum1{
@@ -1291,6 +1300,11 @@ p {
     }
     .merchtxt6{
         padding-left: 8%;
+
+    }
+
+    .footer p{
+        padding-left: 4%;
 
     }
 
