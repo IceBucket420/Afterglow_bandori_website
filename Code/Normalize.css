@@ -1200,7 +1200,7 @@ p {
         flex-direction: column;
     }
 
-    .album1{
+    .text1{
         padding-left: 8%;
     }
 
@@ -1208,7 +1208,7 @@ p {
         flex-direction: column;
     }
 
-    .album2{
+    .text2{
         padding-left: 8%;
 
     }
@@ -1217,27 +1217,32 @@ p {
         flex-direction: column;
     }
 
-    .album3{
+    .text3{
         padding-left: 8%;
 
     }
 
     .malbum1{
-        padding-left:3%;
-        padding-bottom: 3%;
+        flex-direction: column;
+    }
+    .malbum1{
+        padding-left: 8%;
+    }
+
+    .malbum2{
         flex-direction: column;
     }
 
     .malbum2{
-        padding-left:3%;
-        padding-bottom: 3%;
+        padding-left: 8%;
+    }
+
+    .malbum3{
         flex-direction: column;
     }
 
     .malbum3{
-        padding-left:3%;
-        padding-bottom: 3%;
-        flex-direction: column;
+        padding-left: 8%;
     }
 
     .malbum4{
