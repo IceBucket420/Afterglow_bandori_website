@@ -595,6 +595,49 @@ p {
     background-color:crimson;
 }
 
+.merch1 {
+    background-color:lightcoral;
+    display: flex;
+}
+    
+.merchimg1{
+    padding-top:5%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    display: flex;
+    
+}
+
+.merchimg1 img{
+    padding-bottom: 5%;
+    padding-right: 60px;
+}
+.merchtxt1 {
+    padding-right:4%;
+    padding-top:6%;
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.merchtxt1 a{
+    color: black;
+    text-decoration: none;
+}
+
+.merchtxt1 p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+.merchtxt1 b{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+
 
 .malbum1 {
     background-color:lightcoral;
