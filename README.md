@@ -31,11 +31,9 @@ Goes over the features in my website.
  - Feature 7 - Music section in merch page can link users to a yt link that will play the song and another link that links to the merch store. 
  -Feature 8 - Footer added for all pages, to learn more about the band.
  - Feature 9 - Contact page implement, fans can contact the band for inqueries and bookings.
+ - Feature 10 - Allows fans to contact the band, through the socials and contact.
+ - Feature 11 - mobile version implenmented, pages can be resized
 
- ### Features left to implement
-
- - Feature 4 - Allows fans to contact the band, through the socials and contact.
- - Feature 6 - mobile ver of website 
 
 ## Technologies used
 
@@ -74,14 +72,12 @@ In this section, I mention all of the languages, frameworks, libraries, and any 
   - [Afterglow YT (contains songs from Afterglow)](https://www.youtube.com/channel/UCmmb21SgNEyCFW0ZzG-kWvg)
   - [Afterglow spotify](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI)
  ### Media
-  - [Afterglow logo](https://static.wikia.nocookie.net/bandori/images/f/f9/Afterglow_logo.png/revision/latest/scale-to-width-down/250?cb=20211201105320)
-  - [BanG! Dream icon](https://static.wikia.nocookie.net/bandori/images/e/e6/Site-logo.png/revision/latest?cb=20210511144336)
-  - [Band members img 1](https://fonts.googleapis.com/css2?family=Allura&family=Barlow+Condensed:ital@1&family=Roboto+Condensed:wght@300&family=ZCOOL+QingKe+HuangYou&display=swap)
   - [Instagram icon](https://cdn-icons-png.flaticon.com/512/2111/2111679.png)
   - [YT icon](https://cdn-icons-png.flaticon.com/512/1077/1077046.png)
   - [twitter icon](https://cdn-icons-png.flaticon.com/512/2111/2111819.png)
   - [game icon](https://cdn-icons-png.flaticon.com/512/726/726859.png)
   - [Spotify icon](https://cdn-icons-png.flaticon.com/512/2111/2111805.png)
+  - images and videos are found in Afterglow fandom wiki, BGD youtube and the bushiroad global online store
  ### Acknowledgements 
   - The wireframes inspiration:
    1. [Eve OFFCIAL Website](https://eveofficial.com/)
