@@ -471,13 +471,12 @@ p {
 }
 
 .ran{ 
-    display: flex;
-    flex-direction: column;
     background-color: #EE0022;
     padding:5%;
     color: whitesmoke;
     flex-wrap: wrap;
 }
+
 .ranimg img{
     padding-top: 3%;
     padding-bottom: 3%;
@@ -499,7 +498,6 @@ p {
 }
 
 .moca{ 
-    justify-content: center;
     background-color: #00CCAA;
     padding:5%;
     color: whitesmoke;
@@ -525,7 +523,6 @@ p {
 }
 
 .himari{ 
-    justify-content: center;
     background-color:#FF9999;
     padding:5%;
     color: whitesmoke;
@@ -551,7 +548,6 @@ p {
 }
 
 .tomoe{ 
-    justify-content: center;
     background-color: crimson;
     padding:5%;
     color: whitesmoke;
@@ -577,7 +573,6 @@ p {
 }
 
 .hazawa{ 
-    justify-content: center;
     background-color: #FFEE88;
     padding:5%;
     color: black;
