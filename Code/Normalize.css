@@ -15,7 +15,6 @@ h1{
     font-family:'Barlow Condensed', sans-serif;
     font-size: 25px;
     background-color:crimson;
-    top: 300px;
     height: 90px;
     display: flex;
     align-items: center;
@@ -45,7 +44,6 @@ footer{
 
 li {
     display: inline;
-    margin:0;
     padding: 8px;
     list-style-type: none;
 }
@@ -63,9 +61,9 @@ li a {
 }
 
 .socials li {
-   
     list-style: none;
 }
+
 
 .home{
     padding-top:8%;
@@ -107,10 +105,6 @@ li a {
 p { 
     margin-top: -10px; 
 }
-
-
-
-
 
 
 .more {
@@ -397,6 +391,13 @@ p {
     padding-bottom: 3%;
 }
 
+.persona img{
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
+
+}
+
 .introvid{
    
     padding-top: 10%;
@@ -444,6 +445,9 @@ p {
 
 .intro img{
     padding-top: 8%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
 }
 
 .intro p{
@@ -478,6 +482,9 @@ p {
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
     
 }
 
@@ -498,10 +505,13 @@ p {
     color: whitesmoke;
     flex-wrap: wrap;
 }
-.mocaimg{
+.mocaimg img{
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
 }
 
 .mocacon{
@@ -521,10 +531,13 @@ p {
     color: whitesmoke;
     flex-wrap: wrap;
 }
-.himariimg{
+.himariimg img {
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
 }
 
 .himaricon{
@@ -544,10 +557,13 @@ p {
     color: whitesmoke;
     flex-wrap: wrap;
 }
-.tomoeimg{
+.tomoeimg img{
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
 }
 
 .tomoecon{
@@ -567,10 +583,13 @@ p {
     color: black;
     flex-wrap: wrap;
 }
-.hazawaimg{
+.hazawaimg img{
     padding-top: 3%;
     padding-bottom: 3%;
     padding-right: 5%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
 }
 
 .hazawacon{
@@ -1158,43 +1177,6 @@ p {
         flex-wrap: wrap;
         
     }
-    .ranimg img{
-        max-width: 100%;
-        width: auto;
-        height: auto;
-    }
-
-    .mocaimg img{
-        max-width: 100%;
-        width: auto;
-        height: auto;
-
-    }
-
-    .himariimg img{
-        max-width: 100%;
-        width: 1000;
-        height: auto;
-    }
-
-    .tomoeimg img{
-        max-width: 100%;
-        width: auto;
-        height: auto;
-    }
-
-    .hazawaimg img{
-        max-width: 100%;
-        width: auto;
-        height: auto;
-    }
-
-    .intro img{
-        max-width: 100%;
-        width: auto;
-        height: auto;
-    }
-
    
     .album1{
         flex-direction: column;
