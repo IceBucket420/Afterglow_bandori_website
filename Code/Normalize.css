@@ -1158,20 +1158,9 @@ p {
     font-size: 20px;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 712px) {
 
-    
-    .albumimg img{
-        max-width: 100%;
-        width: 400px;
-        flex-wrap: wrap;
-    }
-    .persona img{
-        max-width:100%;
-        height: auto;
-        flex-wrap: wrap;
-        
-    }
+   
    
     .album1{
         flex-direction: column;
