@@ -22,8 +22,8 @@ User stories:
 Goes over the features in my website.
 
  ### Existing Features
- - Feature 1 - navigation bar implemented, allow fans to go to different pages containing different content.
- - Feature 2 - added socials links icons bar, allows fans to see the social pages of their favourtie band
+ - Feature 1 - Navigation bar implemented, allow fans to go to different pages containing different content.
+ - Feature 2 - Added socials links icons bar, allows fans to see the social pages of their favourtie band
  - Feature 3 - A music section in the home page to introduce some songs from Afterglow, through the option of listening to it and a link to where to get the single
  - Feature 4 - About page implemented, where users can discover more about the band's background and history.
  - Feature 5 - Profile page implemented, users who want to learn more about a band member can head there to discover more about each memeber
@@ -32,7 +32,7 @@ Goes over the features in my website.
  -Feature 8 - Footer added for all pages, to learn more about the band.
  - Feature 9 - Contact page implement, fans can contact the band for inqueries and bookings.
  - Feature 10 - Allows fans to contact the band, through the socials and contact.
- - Feature 11 - mobile version implenmented, pages can be resized
+ - Feature 11 - mobile version implenmented, pages can be resized accordingly to the screen resoultion.
 
 
 ## Technologies used
