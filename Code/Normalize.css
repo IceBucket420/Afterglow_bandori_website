@@ -1139,12 +1139,10 @@ p {
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
     padding:3%;
+    padding-top: 5%;
     background: white;
 }
 
-.titcon{
-    padding: 10%;
-}
 
 .footer a{
         color: black;
