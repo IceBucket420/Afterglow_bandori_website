@@ -1159,6 +1159,16 @@ p {
     font-size: 20px;
 }
 
+
+.thanks{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    padding:3%;
+}
+
 @media screen and (max-width: 712px) {
 
    

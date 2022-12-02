@@ -53,17 +53,22 @@
             </section>
             </header>
             <h1>CONTACT</h1>
-            <form class="contact">
-                <center><label class="titcon">Content of inquery</label><br></center>
-                <center><input class="contact_size" type="text"><br></center>
-                <center><label class="titcon" for="fname">Name:</label><br></center>
-                <center><input class="contact_size" type="text" id="fname" name="fname"><br></center>
-                <center><label class="titcon">E-mail:</label><br></center>
-                <center><input class="contact_size" type="email"><br></center>
-                <center><label class="titcon">Message:</label><br></center>
-                <center><input class="contact_size" type="text"><br></center>
-                <center><input class="sub" type="submit"></center>
+            <form class="contact"  name="myForm" >
+                <center><label class="titcon" for="inquery">Content of inquery</label><br></center>
+                <center><input class="contact_size" type="text" name="inquery" required><br></center>
+                <center><label class="titcon" for="fname" id="txtname">Name:</label><br></center>
+                <center><input class="contact_size" type="text" name="fname" required><br></center>
+                <center><label class="titcon" for="email">E-mail:</label><br></center>
+                <center><input class="contact_size" type="email" name="email" required><br></center>
+                <center><label class="titcon" for="message">Message:</label><br></center>
+                <center><textarea class="contact_size" name="message" rows="5" cols="20" required></textarea></center>
+                <center><input type="submit" id="submitBtn"></center>   
             </form>
+            <div class="thanks" id="userdetails">
+                    
+            </div>
+        
+            
         </body>
         <footer class="footer">
             <ul class="socials">  
@@ -89,5 +94,5 @@
             <p><a href="https://bandori.fandom.com/wiki/Afterglow">Go to the Afterglow wiki to find out more!</a></p> 
 
         </footer>
-        <script src="script.js" defer></script>
+        <script src="javascript.js" defer></script>
 </html>
