@@ -1,4 +1,9 @@
+/* importing fonts*/
+
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100;1,400&family=Noto+Sans+JP:wght@300&family=Noto+Sans:ital,wght@1,300&display=swap');
+
+/* general styling*/
+
 body{
     background-color: lightpink;
 }
@@ -10,6 +15,31 @@ h1{
     padding-top:10px;
     text-align: center;
 }
+
+p { 
+    margin-top: -10px; 
+}
+
+
+footer{
+    background-color: crimson;
+    padding: 3%;
+}
+
+.footer a{
+    color: black;
+    text-decoration: none;
+}
+
+.footer{
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family: 'Noto Sans', sans-serif;
+font-size: 20px;
+}
+
+/*Top part of website; The logo, navigation bar and soicals links */
 
 .bar{
     font-family:'Barlow Condensed', sans-serif;
@@ -36,10 +66,6 @@ h1{
 
 }
 
-footer{
-    background-color: crimson;
-    padding: 3%;
-}
 
 
 li {
@@ -64,6 +90,8 @@ li a {
     list-style: none;
 }
 
+
+/*Home page CSS styling*/
 
 .home{
     padding-top:8%;
@@ -102,9 +130,7 @@ li a {
     font-size: 20px;
 }
 
-p { 
-    margin-top: -10px; 
-}
+
 
 
 .more {
@@ -273,25 +299,8 @@ p {
     font-size: 20px;
 }
 
-.album4 {
-    background-color:lightgoldenrodyellow;
-    display: flex;
-}
-    
-.albumimg4{
-    padding-top:5%;
-    padding-bottom: 3%;
-    padding-left: 2%;
-    display: flex;
-    
-}
 
-.albumimg4 img{
-    padding-bottom: 5%;
-    padding-right: 60px;
-}
-
-
+/* About page CSS styling*/
 
 .aboutin {
     font-family: 'Noto Sans', sans-serif;
@@ -399,6 +408,8 @@ p {
 
 }
 
+/* Profile page CSS styling*/
+
 .introvid{
    
     padding-top: 10%;
@@ -435,26 +446,6 @@ p {
     padding-left:3%;
     padding-right: 3%;
 }
-
-.intro {
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
-    display: flex;
-    flex-direction: column;
-    background-color: lightcoral;
-}
-
-.intro img{
-    padding-top: 8%;
-    min-width: 100%;
-    width: 100%; 
-    height: auto;
-}
-
-.intro p{
-    padding: 3%;
-}
-
 
 
 .procon{
@@ -598,7 +589,27 @@ p {
     
 }
 
+.intro {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightcoral;
+}
 
+.intro img{
+    padding-top: 8%;
+    min-width: 100%;
+    width: 100%; 
+    height: auto;
+}
+
+.intro p{
+    padding: 3%;
+}
+
+
+/* merch page CSS styling*/
 
 .mt {
     font-family:'Barlow Condensed', sans-serif;
@@ -1126,6 +1137,9 @@ p {
     font-size: 20px;
 }
 
+
+/* Contact page CSS styling*/
+
 .contact_size{
     padding-right:50%;
     padding-bottom: 3%;
@@ -1135,6 +1149,8 @@ p {
 .sub{
     padding-right:3%;
 }
+
+
 .contact{
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
@@ -1142,21 +1158,6 @@ p {
     padding-top: 5%;
     background: white;
 }
-
-
-.footer a{
-        color: black;
-        text-decoration: none;
-}
-
-.footer{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 20px;
-}
-
 
 .thanks{
     font-family: 'Noto Sans', sans-serif;
@@ -1166,6 +1167,9 @@ p {
     justify-content: center;
     padding:3%;
 }
+
+
+/* Resizing for mobile view, CSS styling*/
 
 @media screen and (max-width: 712px) {
 
